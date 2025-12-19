@@ -1,0 +1,226 @@
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath, amssymb}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{biblatex} %Imports biblatex package
+\addbibresource{referencias.bib} %Import the bibliography file
+\usepackage{physics}
+\usepackage{hyperref}
+\usetheme{Madrid}
+
+\title{Geometría multisimpléctica: primeras definiciones y propiedades básicas.}
+\author{Ángel Blasco Muñoz}
+\institute{Escuela Internacional de Doctorado, Universidad Nacional de Educación a Distancia (UNED), España.}
+\date{8 de enero de 2026}
+% Logo only on title page
+\titlegraphic{
+    \includegraphics[width=3cm]{images/uned_logo_eiduned.png}
+}
+%The next block of commands puts the table of contents at the 
+%beginning of each section and highlights the current section:
+
+\AtBeginSection[]
+{
+  \begin{frame}
+    \frametitle{Contenidos.}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+\begin{document}
+
+%----------------------------------------
+\begin{frame}
+  \titlepage
+\end{frame}
+%---------------------------------------------------------
+
+\begin{frame}{Referencias.}
+\printbibliography %Prints bibliography
+\end{frame}
+%----------------------------------------
+\begin{frame}
+\frametitle{Contenidos.}
+\tableofcontents
+\end{frame}
+%----------------------------------------
+
+
+\section{Introducción.}
+
+%---------------------------------------
+\begin{frame}{Introducción.}
+Se pretende ofrecer una introducción a la Geometría Multisimpléctica basada en el estudio de \cite{cantrijn_hamiltonian_1996} y \cite{cantrijn_geometry_1999} y ver sus propiedades básicas, las cuales forman un marco abstracto de estudio para la teoría clásica de campos, la geometría mecánica, la dinámica... y demás ramas relacionadas con la física-matemática.
+\end{frame}
+
+%----------------------------------------
+
+\section{Espacios vectoriales multisimplécticos.}
+
+%---------------------------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+\begin{block}{Definición}
+Un espacio vectorial multisimpléctico de orden $k+1$ es un par $(\mathcal{V}, \omega)$ formado por un espacio vectorial $\mathcal{V}$ y una $(k+1)$-forma en $\mathcal{V}$ no degenerada.
+\end{block}
+\pause
+$\omega$ se denomina \textit{forma multisimpléctica} (de grado $k+1$). 
+\pause
+$i_{v} \omega = 0 \iff v=0$ para $v \in \mathcal{V}$.\\
+\pause
+La no-degeneración de la forma multisimpléctica significa que la aplicación inducida:
+\[\hat{\omega}: \mathcal{V} \rightarrow \land^{k}\mathcal{V^{*}}
+\]
+\[
+v \mapsto i_{v}\omega
+\]
+es inyectiva.
+\end{frame}
+
+%----------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+Dos espacios vectoriales multisimplécticos $(\mathcal{V}, \omega)$ y $(\tilde{\mathcal{V}}, \tilde{\omega})$ del mismo orden $(k+1)$, son isomorfos si existe un isomorfismo
+\[
+\Psi : \mathcal{V} \rightarrow \tilde{\mathcal{V}}
+\]
+tal que:
+\[
+\tilde{\omega}(\Psi(v_{1}), \ldots ,\Psi(v_{k+1}))=\omega (v_{1}, \ldots , v_{k+1})
+\]
+para todo $v_{i} \in \mathcal{V}, \ (i=1, \ldots , k+1)$.
+\end{frame}
+%----------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+Por \cite{abraham_foundations_2008} sabemos que cualquier espacio vectorial $V$, el espacio $V \times V^{*}$ admite una forma simpléctica canónica $\Omega$ definida:
+\[
+\Omega((v_{1},\alpha_{1}),(v_{2},\alpha_{2}))=\alpha_{2}(v_{1})-\alpha_{1}(v_{2})
+\]
+\pause
+\textit{¿Esta estructura tiene su extensión natural en el marco multisimpléctico?}
+\pause
+Si. Dado un $k$ con $1 \leq k \leq$ dim $V$, el espacio $V \times \land^{k}V^{*}$ puede ser equipado con una $(k+1)$-forma canónica $\Omega$ definida:
+\[
+\Omega((v_{1},\alpha_{1}),\ldots ,(v_{k+1},\alpha_{k+1}))=
+\sum_{i=1}^{k+1}(-1)^{i}\alpha_{i}(v_{1}, \ldots , \hat{v_{i}}, \ldots , v_{k+1})
+\]
+\pause
+\begin{alertblock}{Proposición:}
+$(V \times \land^{k}V^{*},\Omega)$ es un espacio vectorial multisimpléctico de orden $k+1$.
+\end{alertblock}
+\end{frame}
+%----------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+En adelante, por simplicidad, utilizaremos la notación $\mathcal{V}^{k}_{V}=V \times \wedge^{k}V^{*}$.
+
+\end{frame}
+%----------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+Consideramos la siguiente aplicación lineal sobreyectiva
+\[
+\pi : V \longrightarrow W
+\]
+y su secuencia exacta corta
+\[
+0 \rightarrow \text{ker}\pi \hookrightarrow V \xrightarrow{\pi} W \rightarrow 0
+\]
+\pause
+Denotamos por $\wedge^{k}_{r} \pi$ el espacio de las $k$-formas exteriores.
+\pause
+\[
+\alpha \in \wedge^{k}_{r} \pi \Longleftrightarrow i_{v_{1}\wedge \ldots \wedge v_{r+1}}\alpha =0
+\] 
+\end{frame}
+%----------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+\[
+\wedge^{k}_{0} \pi \subseteq \wedge^{k}_{1} \pi \subseteq \ldots \subseteq \wedge^{k}_{k-1} \pi \subseteq \wedge^{k} V^{*}
+\]
+Denotamos
+\[
+\mathcal{V}^{(k,r)}_{\pi} = V \times \wedge^{k}_{r} \pi
+\]
+\pause
+Claramente, para $0 \leq r < k$ tenemos que $\mathcal{V}^{(k,r)}_{\pi}$ es un subespacio de $\mathcal{V}^{k}_{V}$\\
+-CONTAR pg 308 de \cite{cantrijn_geometry_1999}
+\pause
+\begin{alertblock}{Proposición:}
+Para cada $r$, con $0 \leq r \leq k-1$ y $k-r \leq \text{dim}W$, $(\mathcal{V}^{(k,r)}_{\pi}, \Omega)$ es un espacio vectorial multisimpléctico de orden $k+1$.
+\end{alertblock}
+\end{frame}
+%----------------------------------------
+\begin{frame}{Espacios vectoriales multisimplécticos.}
+La anterior proposición nos indica que para cualquier fibrado $\pi$ de un espacio vectorial $V$, hay una familia de subespacios vectoriales multisimplécticos de $(\mathcal{V}^{k}_{V}, \Omega)$.\\
+La estructura multisimpléctica obtenida al restringir $\Omega$ a $\mathcal{V}^{(k,l)}_{\pi}= V \times \wedge^{k}_{l} \pi$ es el modelo lineal para la estructura multisimpléctica canónica que surge en la formulación Hamiltoniana covariante de la teoría de campos (Ver \cite{carinena_multisymplectic_1991}).
+\end{frame}
+%----------------------------------------
+\section{Subespacios característicos.}
+
+%---------------------------------------------------------
+\begin{frame}{Subespacios característicos.}
+Sea $(\mathcal{V}, \omega)$ un espacio vectorial multisimpléctico con una $(k+1)$-forma no degenerada $\omega$, y sea $W$ un subespacio de $\mathcal{V}$. Sea $l$, con $1 \leq l \leq k$,
+\begin{block}{Definición}
+El $l$-ésimo complemento ortogonal de $W$ es un subespacio lineal de $\mathcal{V}$ definido como:
+\[
+W^{\perp , l} = \left\lbrace v \in \mathcal{V} \:| \:
+i_{v \wedge w_{1} \wedge \ldots \wedge w_{l}}\omega = 0 \text{ para todo }w_{i} \in W, i=1, \ldots , l \right\rbrace 
+\]
+\end{block}
+\pause
+\[
+W^{\perp , 1} \subseteq W^{\perp , 2} \subseteq \ldots \subseteq W^{\perp , k}
+\]
+\pause
+\[
+W^{\perp , l} = \mathcal{V} \text{ siempre que } l > \text{dim } W
+\]
+\end{frame}
+%----------------------------------------
+\begin{frame}{Subespacios característicos.}
+En \cite{cantrijn_geometry_1999} se enuncian y demuestran las siguientes propiedades:
+\begin{itemize}
+	\item $\left\lbrace 0 \right\rbrace^{\perp ,l}= \mathcal{V} \text{ y } \mathcal{V}^{\perp , l}= \left\lbrace 0 \right\rbrace $;
+	\item $U \subset W \Longrightarrow W^{\perp , l} \subset U^{\perp , l}$;
+	\item $(U+W)^{\perp , l} \subset W^{\perp , l} \cap U^{\perp , l}$;
+	\item $U^{\perp , l_{1}} \cap W^{\perp , l_{2}} \subset (U+W)^{\perp, l_{1}+l_{2}-1} \text{ para } l_{1}+ l_{2} \leq k+1$;
+	\item $U^{\perp , l_{1}} + W^{\perp , l_{2}} \subset (U \cap W)^{\perp, \overline{l}} \text{ para } \overline{l}=\text{max}\left\lbrace l_{1},l_{2} \right\rbrace $;
+\end{itemize}
+\end{frame}
+%---------------------------------------
+\begin{frame}{Subespacios característicos.}
+$W$ es un subespacio de un espacio vectorial multisimpléctico $(\mathcal{V}, \omega)$ de orden $k+1$, entonces:
+\begin{itemize}
+\item l-isotrópico si $W \subset W^{\perp ,l}$
+\item l-coisotrópico si $W^{\perp ,l} \subset W$
+\item l-Lagrangiano si $W = W^{\perp ,l}$
+\end{itemize}
+
+\end{frame}
+%---------------------------------------
+\section{Caracterización de las estructuras multisimplécticas canónicas.}
+%----------------------------------------
+\begin{frame}{Caracterización de las estructuras multisimplécticas canónicas.}
+  
+\end{frame}
+
+%----------------------------------------
+\section{Variedades multisimplécticas.}
+%----------------------------------------
+\begin{frame}{Variedades multisimplécticas.}
+  
+\end{frame}
+%------------------------------------------
+\section{Estructuras Hamiltonianas en variedades multisimplécticas.}
+%----------------------------------------
+\begin{frame}{Estructuras Hamiltonianas en variedades multisimplécticas.}
+  
+\end{frame}
+
+%----------------------------------------
+\section{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}
+%-----------------------------------------
+\begin{frame}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}
+
+\end{frame}
+
+%----------------------------------------
+
+\end{document}

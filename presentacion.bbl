@@ -1,0 +1,181 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{abraham_foundations_2008}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a662cea2e646a5fd5025f8ebbdaaae10}{%
+           family={Abraham},
+           familyi={A\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ec03988d2dd9d918b4d7f236b192cc6a}{%
+           family={Marsden},
+           familyi={M\bibinitperiod},
+           given={Jerrold\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{AMS} Chelsea Pub./American Mathematical Society}%
+      }
+      \strng{namehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{fullhash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{bibnamehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{authorbibnamehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{authornamehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{authorfullhash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd ed}
+      \field{title}{Foundations of mechanics}
+      \field{year}{2008}
+      \field{dateera}{ce}
+    \endentry
+    \entry{cantrijn_hamiltonian_1996}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0f3b43c808c59ab9f9c11ad0490bfe76}{%
+           family={Cantrijn},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=91115a0c84991fe55987ed0a17a29dd8}{%
+           family={Ibort},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0989f67a5053447cfcac940a6d9df26e}{%
+           family={De\bibnamedelima León},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{fullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{bibnamehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authorbibnamehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authornamehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authorfullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rend. Sem. Mat. Univ. Politec. Torino}
+      \field{number}{3}
+      \field{title}{Hamiltonian structures on multisymplectic manifolds}
+      \field{volume}{54}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{pages}{225\bibrangedash 236}
+      \range{pages}{12}
+      \verb{file}
+      \verb Available Version (via Google Scholar):/home/angel/Zotero/storage/CWPZ6VJH/Cantrijn et al. - 1996 - Hamiltonian structures on multisymplectic manifolds.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{cantrijn_geometry_1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0f3b43c808c59ab9f9c11ad0490bfe76}{%
+           family={Cantrijn},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=91115a0c84991fe55987ed0a17a29dd8}{%
+           family={Ibort},
+           familyi={I\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0989f67a5053447cfcac940a6d9df26e}{%
+           family={De\bibnamedelima León},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{fullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{bibnamehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authorbibnamehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authornamehash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authorfullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Aust. Math. Soc. A}
+      \field{langid}{english}
+      \field{number}{3}
+      \field{title}{On the geometry of multisymplectic manifolds}
+      \field{volume}{66}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \field{pages}{303\bibrangedash 330}
+      \range{pages}{28}
+      \verb{file}
+      \verb PDF:/home/angel/Zotero/storage/RHXMSZA6/Cantrijn et al. - 1999 - On the geometry of multisymplectic manifolds.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{carinena_multisymplectic_1991}{article}{}
+      \name{author}{3}{}{%
+        {{hash=21830851accfc1ce2729f5c582afef85}{%
+           family={Cariñena},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=5d72c4a24844bd845d7fbadc38f04d32}{%
+           family={Crampin},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c50ee442350a0b3d2f25704e4a2505f7}{%
+           family={Ibort},
+           familyi={I\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{fullhash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{bibnamehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{authorbibnamehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{authornamehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{authorfullhash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The general purpose of this paper is to attempt to clarify the geometrical foundations of first order Lagrangian and Hamiltonian field theories by introducing in a systematic way multisymplectic manifolds, the field theoretical analogues of the symplectic structures used in geometrical mechanics. Much of the confusion surrounding such terms as gauge transformation and symmetry transformation as they are used in the context of Lagrangian theory is thereby eliminated, as we show. We discuss Noether's theorem for general symmetries of Lagrangian and Hamiltonian field theories. The cohomology associated to a group of symmetries of Hamiltonian or Lagrangian field theories is constructed and its relation with the structure of the current algebra is made apparent.}
+      \field{journaltitle}{Differential Geometry and its Applications}
+      \field{number}{4}
+      \field{title}{On the multisymplectic formalism for first order field theories}
+      \field{volume}{1}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \field{pages}{345\bibrangedash 374}
+      \range{pages}{30}
+      \verb{file}
+      \verb main.pdf:/home/angel/Zotero/storage/UTLKPPL7/main.pdf:application/pdf
+      \endverb
+      \keyw{first order field theory,gauge transformation,jet bundle,multimomentum map,Multisymplectic structure}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
