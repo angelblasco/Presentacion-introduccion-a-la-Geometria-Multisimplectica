@@ -175,6 +175,37 @@
       \endverb
       \keyw{first order field theory,gauge transformation,jet bundle,multimomentum map,Multisymplectic structure}
     \endentry
+    \entry{libermann_symplectic_1987}{book}{}
+      \name{author}{2}{}{%
+        {{hash=85aabbfa547045d34621049d7d557548}{%
+           family={Libermann},
+           familyi={L\bibinitperiod},
+           given={Paulette},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f1387b803949cc25065fde71b7335b34}{%
+           family={Marle},
+           familyi={M\bibinitperiod},
+           given={Charles-Michel},
+           giveni={C\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{fullhash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{bibnamehash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{authorbibnamehash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{authornamehash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{authorfullhash}{066a74a806d414e07d08d1f8eb677cc0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Symplectic Geometry and Analytical Mechanics}
+      \field{year}{1987}
+      \field{dateera}{ce}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

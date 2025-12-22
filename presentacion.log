@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.16)  16 DEC 2025 22:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.16)  22 DEC 2025 22:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1727,12 +1727,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [30
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 202--202
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 213--213
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 202--202
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 213--213
  [][][][]  
  []
 
@@ -1749,20 +1749,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [31
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 205--205
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 205--205
- [][][][]  
- []
-
-(./presentacion.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1775,16 +1761,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [32
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 209--209
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 209--209
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1797,20 +1773,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [33
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 211--211
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 219--219
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 211--211
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 219--219
  [][][][]  
  []
 
-(./presentacion.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1823,16 +1795,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [34
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 215--215
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 215--215
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1845,12 +1807,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [35
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 218--218
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 221--221
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 218--218
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 221--221
  [][][][]  
  []
 
@@ -1871,12 +1833,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [36
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 222--222
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 225--225
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 222--222
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 225--225
  [][][][]  
  []
 
@@ -1891,6 +1853,102 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  []
 
 [37
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 227--227
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 227--227
+ [][][][]  
+ []
+
+(./presentacion.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[38
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 231--231
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 231--231
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[39
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 234--234
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 234--234
+ [][][][]  
+ []
+
+(./presentacion.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[40
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 238--238
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 238--238
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[41
 
 ]
 \tf@nav=\write7
@@ -1918,10 +1976,10 @@ Package logreq Info: Writing requests to 'presentacion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30886 strings out of 476047
- 595511 string characters out of 5792074
+ 30908 strings out of 476047
+ 595908 string characters out of 5792074
  1946975 words of memory out of 5000000
- 52293 multiletter control sequences out of 15000+600000
+ 52306 multiletter control sequences out of 15000+600000
  564994 words of font info for 61 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  101i,16n,107p,894b,2420s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1935,10 +1993,10 @@ t/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts
 1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy8.pfb>
-Output written on presentacion.pdf (37 pages, 239838 bytes).
+Output written on presentacion.pdf (41 pages, 250636 bytes).
 PDF statistics:
- 1369 PDF objects out of 1440 (max. 8388607)
- 1179 compressed objects within 12 object streams
- 87 named destinations out of 1000 (max. 500000)
+ 1480 PDF objects out of 1728 (max. 8388607)
+ 1284 compressed objects within 13 object streams
+ 96 named destinations out of 1000 (max. 500000)
  622 words of extra memory for PDF output out of 10000 (max. 10000000)
 

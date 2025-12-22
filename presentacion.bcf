@@ -2372,6 +2372,9 @@
     <bcf:citekey order="9" intorder="1">cantrijn_geometry_1999</bcf:citekey>
     <bcf:citekey order="10" intorder="1">carinena_multisymplectic_1991</bcf:citekey>
     <bcf:citekey order="11" intorder="1">cantrijn_geometry_1999</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">libermann_symplectic_1987</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">libermann_symplectic_1987</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">libermann_symplectic_1987</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

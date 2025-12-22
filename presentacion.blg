@@ -1,14 +1,14 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'presentacion.blg'
-[74] biber:340> INFO - === mar dic 16, 2025, 22:11:21
-[89] Biber.pm:419> INFO - Reading 'presentacion.bcf'
-[147] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[159] Biber.pm:4419> INFO - Processing section 0
-[169] Biber.pm:4610> INFO - Looking for bibtex file 'referencias.bib' for section 0
-[172] bibtex.pm:1713> INFO - LaTeX decoding ...
-[208] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
-[270] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[270] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[270] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[274] bbl.pm:660> INFO - Writing 'presentacion.bbl' with encoding 'UTF-8'
-[276] bbl.pm:763> INFO - Output to presentacion.bbl
+[73] biber:340> INFO - === lun dic 22, 2025, 22:32:27
+[87] Biber.pm:419> INFO - Reading 'presentacion.bcf'
+[146] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[158] Biber.pm:4419> INFO - Processing section 0
+[168] Biber.pm:4610> INFO - Looking for bibtex file 'referencias.bib' for section 0
+[171] bibtex.pm:1713> INFO - LaTeX decoding ...
+[206] bibtex.pm:1519> INFO - Found BibTeX data source 'referencias.bib'
+[275] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[276] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[276] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[281] bbl.pm:660> INFO - Writing 'presentacion.bbl' with encoding 'UTF-8'
+[283] bbl.pm:763> INFO - Output to presentacion.bbl
