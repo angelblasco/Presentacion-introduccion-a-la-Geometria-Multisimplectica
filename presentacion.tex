@@ -239,13 +239,48 @@ V es un subespacio $k$-Lagrangiano de $(\mathcal{V}^{k}_{V}, \Omega)$ y $\wedge^
 \end{frame}
 %----------------------------------------
 \begin{frame}{Caracterización de las estructuras multisimplécticas canónicas.}
-	
+Pongamos $W=\wedge^{k}V^{*}$, tenemos entonces que:
+\[
+\wedge^{k} (\mathcal{V}^{k}_{V}\textfractionsolidus W)^{*} =
+\wedge^{k}V^{*} = W
+\]
+y, por lo tanto
+\[
+\text{dim} W = \text{dim} \wedge^{k} (\mathcal{V}^{k}_{V}\textfractionsolidus W)^{*}
+\]
+\end{frame}
+%----------------------------------------
+\begin{frame}{Caracterización de las estructuras multisimplécticas canónicas.}
+Si tomamos $\text{dim }\mathcal{V}^{k}_{V} =n$ y $\text{dim} W = p$ entonces tenemos la siguiente relación:	
+\[
+p = \binom{n-p}{k}
+\]
+\pause
+\begin{block}{Observación:}
+Dado un espacio multisimpléctico n-dimensional $(\mathcal{V} , \omega )$ de orden $k+1$, una condición necesaria para que sea isomorfo a un espacio multisimpléctico canónico n-dimensional $(\mathcal{V}^{k}_{V},\Omega)$ es que $\mathcal{V}$ admita un subespacio 1-Lagrangiano $W$ de dimensión $p$, tal que la anterior relación se cumpla.
+\end{block}
+\end{frame}
+%----------------------------------------
+\begin{frame}{Caracterización de las estructuras multisimplécticas canónicas.}
+\begin{alertblock}{Teorema:}
+Sea $(\mathcal{V}, \omega)$ un espacio vectorial multisimpléctico de orden $k+1$. Entonces, $(\mathcal{V}, \omega)$ es isomorfo al espacio vectorial multisimpléctico canónico $(\mathcal{V}^{k}_{V},\Omega)$ si y solo si existe un subespacio $W$ de $\mathcal{V}$ tal que:
+\begin{itemize}
+	\item $W$ es 1-Lagrangiano.
+	\item $\text{dim}W = \text{dim } \wedge^{k}(\mathcal{V}\textfractionsolidus W)^{*}$
+\end{itemize}
+\end{alertblock}
+\pause
+\begin{alertblock}{Corolario:}
+Sea $ \nu$ una forma de volumen de un espacio vectorial $\mathcal{V}$  $(k+1)$-dimensional, entonces el espacio multisimpléctico $(\mathcal{V}, \nu)$ es isomorfo a un espacio multisimpléctico canónico de orden $k+1$.
+\end{alertblock}
 \end{frame}
 %----------------------------------------
 \section{Variedades multisimplécticas.}
 %----------------------------------------
 \begin{frame}{Variedades multisimplécticas.}
-  
+ \begin{block}{Definición:}
+ Una variedad multisimpléctica $(M, \omega)$ de orden $k+1$ es un par formado por una variedad diferenciable $M$ y una $(k+1)$-forma cerrada $\omega$ sobre $M$ la cual es a su vez no degenerada. La forma diferencial $\omega$ se denomina forma multisimpléctica (de grado $k+1$).
+ \end{block}
 \end{frame}
 %------------------------------------------
 \section{Estructuras Hamiltonianas en variedades multisimplécticas.}
