@@ -1,3 +1,3 @@
-# Introduccion a la geometria multisimplectica
+# Introducción a la geometría multisimpléctica
 ***
-Presentacion sobre los principios basicos de la gemotria multisimplectica para una ponencia en la UNED como iniciacion al curso de doctorado.
+Presentación sobre los principios básicos de la geometría multisimpléctica para una ponencia en la UNED como iniciación al curso de doctorado.
