@@ -68,22 +68,24 @@
 \headcommand {\beamer@framepages {44}{44}}
 \headcommand {\slideentry {6}{0}{2}{45/45}{}{0}}
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\beamer@sectionpages {44}{45}}
-\headcommand {\beamer@subsectionpages {44}{45}}
-\headcommand {\sectionentry {7}{Estructuras Hamiltonianas en variedades multisimplécticas.}{46}{Estructuras Hamiltonianas en variedades multisimplécticas.}{0}}
-\headcommand {\slideentry {7}{0}{1}{46/46}{}{0}}
-\headcommand {\beamer@framepages {46}{46}}
-\headcommand {\slideentry {7}{0}{2}{47/47}{}{0}}
-\headcommand {\beamer@framepages {47}{47}}
-\headcommand {\beamer@sectionpages {46}{47}}
-\headcommand {\beamer@subsectionpages {46}{47}}
-\headcommand {\sectionentry {8}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{48}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{0}}
-\headcommand {\slideentry {8}{0}{1}{48/48}{}{0}}
+\headcommand {\slideentry {6}{0}{3}{46/47}{}{0}}
+\headcommand {\beamer@framepages {46}{47}}
+\headcommand {\beamer@sectionpages {44}{47}}
+\headcommand {\beamer@subsectionpages {44}{47}}
+\headcommand {\sectionentry {7}{Estructuras Hamiltonianas en variedades multisimplécticas.}{48}{Estructuras Hamiltonianas en variedades multisimplécticas.}{0}}
+\headcommand {\slideentry {7}{0}{1}{48/48}{}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\slideentry {8}{0}{2}{49/49}{}{0}}
+\headcommand {\slideentry {7}{0}{2}{49/49}{}{0}}
 \headcommand {\beamer@framepages {49}{49}}
-\headcommand {\beamer@partpages {1}{49}}
-\headcommand {\beamer@subsectionpages {48}{49}}
 \headcommand {\beamer@sectionpages {48}{49}}
-\headcommand {\beamer@documentpages {49}}
-\headcommand {\gdef \inserttotalframenumber {30}}
+\headcommand {\beamer@subsectionpages {48}{49}}
+\headcommand {\sectionentry {8}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{50}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{0}}
+\headcommand {\slideentry {8}{0}{1}{50/50}{}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\slideentry {8}{0}{2}{51/51}{}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\beamer@partpages {1}{51}}
+\headcommand {\beamer@subsectionpages {50}{51}}
+\headcommand {\beamer@sectionpages {50}{51}}
+\headcommand {\beamer@documentpages {51}}
+\headcommand {\gdef \inserttotalframenumber {31}}
