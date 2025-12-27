@@ -1,8 +1,8 @@
 \babel@toc {spanish}{}\relax 
-\beamer@sectionintoc {2}{Introducción.}{4}{0}{1}
-\beamer@sectionintoc {3}{Espacios vectoriales multisimplécticos.}{6}{0}{2}
-\beamer@sectionintoc {4}{Subespacios característicos.}{24}{0}{3}
-\beamer@sectionintoc {5}{Caracterización de las estructuras multisimplécticas canónicas.}{30}{0}{4}
-\beamer@sectionintoc {6}{Variedades multisimplécticas.}{44}{0}{5}
-\beamer@sectionintoc {7}{Estructuras Hamiltonianas en variedades multisimplécticas.}{48}{0}{6}
-\beamer@sectionintoc {8}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{50}{0}{7}
+\beamer@sectionintoc {2}{Introducción.}{5}{0}{1}
+\beamer@sectionintoc {3}{Espacios vectoriales multisimplécticos.}{7}{0}{2}
+\beamer@sectionintoc {4}{Subespacios característicos.}{25}{0}{3}
+\beamer@sectionintoc {5}{Caracterización de las estructuras multisimplécticas canónicas.}{31}{0}{4}
+\beamer@sectionintoc {6}{Variedades multisimplécticas.}{45}{0}{5}
+\beamer@sectionintoc {7}{Estructuras Hamiltonianas en variedades multisimplécticas.}{49}{0}{6}
+\beamer@sectionintoc {8}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{51}{0}{7}

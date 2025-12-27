@@ -175,6 +175,43 @@
       \endverb
       \keyw{first order field theory,gauge transformation,jet bundle,multimomentum map,Multisymplectic structure}
     \endentry
+    \entry{de_leon_tulczyjews_2003}{article}{}
+      \name{author}{3}{}{%
+        {{hash=351760d02755bead1be473492ed9309c}{%
+           family={{de Leon}},
+           familyi={d\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c248b017ae56c54883d66f2805d4acd4}{%
+           family={{de Diego}},
+           familyi={d\bibinitperiod},
+           given={D.\bibnamedelimi Martin},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=050fe2e8488e135689788d2011e2eca9}{%
+           family={{Santamaria-Merino}},
+           familyi={S\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{fullhash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{bibnamehash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{authorbibnamehash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{authornamehash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{authorfullhash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv e-prints}
+      \field{title}{{Tulczyjew's triples and lagrangian submanifolds in classical field theories}}
+      \field{year}{2003}
+      \verb{eprint}
+      \verb math-ph/0302026
+      \endverb
+      \keyw{Mathematical Physics,Mathematics - Differential Geometry,53C15,70S05,53D12}
+    \endentry
     \entry{libermann_symplectic_1987}{book}{}
       \name{author}{2}{}{%
         {{hash=85aabbfa547045d34621049d7d557548}{%
