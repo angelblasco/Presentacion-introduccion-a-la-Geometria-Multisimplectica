@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.16)  27 DEC 2025 18:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.16)  28 DEC 2025 22:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2240,6 +2240,50 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [56
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 346--346
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 346--346
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[57
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 352--352
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 352--352
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[58
+
+]
 \tf@nav=\write7
 \openout7 = `presentacion.nav'.
 
@@ -2258,26 +2302,17 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `presentacion.out' has not changed.
 (rerunfilecheck)             Checksum: D4FB6119E8DACA7223E292D59D47B27C;2019.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                presentacion
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'presentacion.run.xml'.
 \openout1 = `presentacion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31035 strings out of 476047
- 599492 string characters out of 5792074
+ 31053 strings out of 476047
+ 600000 string characters out of 5792074
  1950975 words of memory out of 5000000
- 52397 multiletter control sequences out of 15000+600000
+ 52410 multiletter control sequences out of 15000+600000
  565507 words of font info for 63 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  101i,16n,107p,894b,2420s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2293,10 +2328,10 @@ c/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb>
-Output written on presentacion.pdf (56 pages, 330286 bytes).
+Output written on presentacion.pdf (58 pages, 337265 bytes).
 PDF statistics:
- 2033 PDF objects out of 2073 (max. 8388607)
- 1739 compressed objects within 18 object streams
- 127 named destinations out of 1000 (max. 500000)
- 1024 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2101 PDF objects out of 2487 (max. 8388607)
+ 1797 compressed objects within 18 object streams
+ 132 named destinations out of 1000 (max. 500000)
+ 1060 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -243,6 +243,34 @@
       \field{year}{1987}
       \field{dateera}{ce}
     \endentry
+    \entry{martin_darboux_1988}{article}{}
+      \name{author}{1}{}{%
+        {{hash=26ee8edd3a9358f59ef93107d6884e43}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{fullhash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{bibnamehash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{authorbibnamehash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{authornamehash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{authorfullhash}{26ee8edd3a9358f59ef93107d6884e43}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Letters in Mathematical Physics}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{title}{A Darboux theorem for multi-symplectic manifolds}
+      \field{volume}{16}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{133\bibrangedash 138}
+      \range{pages}{6}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
