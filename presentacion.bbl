@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{abraham_foundations_2008}{book}{}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{abraham_foundations_2008}{book}{}{}
       \name{author}{2}{}{%
         {{hash=a662cea2e646a5fd5025f8ebbdaaae10}{%
            family={Abraham},
@@ -37,10 +37,12 @@
       }
       \strng{namehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
       \strng{fullhash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{fullhashraw}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
       \strng{bibnamehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
       \strng{authorbibnamehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
       \strng{authornamehash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
       \strng{authorfullhash}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
+      \strng{authorfullhashraw}{e61c0cc8fb22b5ea1d61fb2ba20c653e}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
@@ -50,7 +52,7 @@
       \field{year}{2008}
       \field{dateera}{ce}
     \endentry
-    \entry{cantrijn_hamiltonian_1996}{article}{}
+    \entry{cantrijn_hamiltonian_1996}{article}{}{}
       \name{author}{3}{}{%
         {{hash=0f3b43c808c59ab9f9c11ad0490bfe76}{%
            family={Cantrijn},
@@ -70,10 +72,12 @@
       }
       \strng{namehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{fullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{fullhashraw}{5767fddcec6649b2e5b6318f15858f05}
       \strng{bibnamehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{authorbibnamehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{authornamehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{authorfullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authorfullhashraw}{5767fddcec6649b2e5b6318f15858f05}
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -91,7 +95,7 @@
       \verb Available Version (via Google Scholar):/home/angel/Zotero/storage/CWPZ6VJH/Cantrijn et al. - 1996 - Hamiltonian structures on multisymplectic manifolds.pdf:application/pdf
       \endverb
     \endentry
-    \entry{cantrijn_geometry_1999}{article}{}
+    \entry{cantrijn_geometry_1999}{article}{}{}
       \name{author}{3}{}{%
         {{hash=0f3b43c808c59ab9f9c11ad0490bfe76}{%
            family={Cantrijn},
@@ -111,10 +115,12 @@
       }
       \strng{namehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{fullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{fullhashraw}{5767fddcec6649b2e5b6318f15858f05}
       \strng{bibnamehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{authorbibnamehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{authornamehash}{5767fddcec6649b2e5b6318f15858f05}
       \strng{authorfullhash}{5767fddcec6649b2e5b6318f15858f05}
+      \strng{authorfullhashraw}{5767fddcec6649b2e5b6318f15858f05}
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
@@ -133,7 +139,7 @@
       \verb PDF:/home/angel/Zotero/storage/RHXMSZA6/Cantrijn et al. - 1999 - On the geometry of multisymplectic manifolds.pdf:application/pdf
       \endverb
     \endentry
-    \entry{carinena_multisymplectic_1991}{article}{}
+    \entry{carinena_multisymplectic_1991}{article}{}{}
       \name{author}{3}{}{%
         {{hash=21830851accfc1ce2729f5c582afef85}{%
            family={Cariñena},
@@ -153,10 +159,12 @@
       }
       \strng{namehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
       \strng{fullhash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{fullhashraw}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
       \strng{bibnamehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
       \strng{authorbibnamehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
       \strng{authornamehash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
       \strng{authorfullhash}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
+      \strng{authorfullhashraw}{0537d372a74d3c1b3e0e41ef5e9ef1d0}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{labelnamesource}{author}
@@ -175,7 +183,7 @@
       \endverb
       \keyw{first order field theory,gauge transformation,jet bundle,multimomentum map,Multisymplectic structure}
     \endentry
-    \entry{de_leon_tulczyjews_2003}{article}{}
+    \entry{de_leon_tulczyjews_2003}{article}{}{}
       \name{author}{3}{}{%
         {{hash=351760d02755bead1be473492ed9309c}{%
            family={{de Leon}},
@@ -195,10 +203,12 @@
       }
       \strng{namehash}{e83165a1e423efe2bc4c279cd2cb68f5}
       \strng{fullhash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{fullhashraw}{e83165a1e423efe2bc4c279cd2cb68f5}
       \strng{bibnamehash}{e83165a1e423efe2bc4c279cd2cb68f5}
       \strng{authorbibnamehash}{e83165a1e423efe2bc4c279cd2cb68f5}
       \strng{authornamehash}{e83165a1e423efe2bc4c279cd2cb68f5}
       \strng{authorfullhash}{e83165a1e423efe2bc4c279cd2cb68f5}
+      \strng{authorfullhashraw}{e83165a1e423efe2bc4c279cd2cb68f5}
       \field{sortinit}{d}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{labelnamesource}{author}
@@ -212,7 +222,7 @@
       \endverb
       \keyw{Mathematical Physics,Mathematics - Differential Geometry,53C15,70S05,53D12}
     \endentry
-    \entry{libermann_symplectic_1987}{book}{}
+    \entry{libermann_symplectic_1987}{book}{}{}
       \name{author}{2}{}{%
         {{hash=85aabbfa547045d34621049d7d557548}{%
            family={Libermann},
@@ -230,10 +240,12 @@
       }
       \strng{namehash}{066a74a806d414e07d08d1f8eb677cc0}
       \strng{fullhash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{fullhashraw}{066a74a806d414e07d08d1f8eb677cc0}
       \strng{bibnamehash}{066a74a806d414e07d08d1f8eb677cc0}
       \strng{authorbibnamehash}{066a74a806d414e07d08d1f8eb677cc0}
       \strng{authornamehash}{066a74a806d414e07d08d1f8eb677cc0}
       \strng{authorfullhash}{066a74a806d414e07d08d1f8eb677cc0}
+      \strng{authorfullhashraw}{066a74a806d414e07d08d1f8eb677cc0}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
@@ -243,7 +255,7 @@
       \field{year}{1987}
       \field{dateera}{ce}
     \endentry
-    \entry{martin_darboux_1988}{article}{}
+    \entry{martin_darboux_1988}{article}{}{}
       \name{author}{1}{}{%
         {{hash=26ee8edd3a9358f59ef93107d6884e43}{%
            family={Martin},
@@ -253,10 +265,12 @@
       }
       \strng{namehash}{26ee8edd3a9358f59ef93107d6884e43}
       \strng{fullhash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{fullhashraw}{26ee8edd3a9358f59ef93107d6884e43}
       \strng{bibnamehash}{26ee8edd3a9358f59ef93107d6884e43}
       \strng{authorbibnamehash}{26ee8edd3a9358f59ef93107d6884e43}
       \strng{authornamehash}{26ee8edd3a9358f59ef93107d6884e43}
       \strng{authorfullhash}{26ee8edd3a9358f59ef93107d6884e43}
+      \strng{authorfullhashraw}{26ee8edd3a9358f59ef93107d6884e43}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
