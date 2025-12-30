@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber presentacion"] 1767105373.69873 "presentacion.bcf" "presentacion.bbl" "presentacion" 1767106263.49021 0
-  "presentacion.bcf" 1767106263.24751 109816 db1da5b08666b576f77e9d2018721342 "pdflatex"
+["biber presentacion"] 1767105373.69873 "presentacion.bcf" "presentacion.bbl" "presentacion" 1767106525.89633 0
+  "presentacion.bcf" 1767106525.66156 109816 db1da5b08666b576f77e9d2018721342 "pdflatex"
   "referencias.bib" 1767105357.59889 25564 a7adbdeedc29ff0e1986951b115d394a ""
   (generated)
   "presentacion.bbl"
   "presentacion.blg"
   (rewritten before read)
-["pdflatex"] 1767106257.98189 "presentacion.tex" "presentacion.pdf" "presentacion" 1767106263.49105 0
+["pdflatex"] 1767106520.45945 "presentacion.tex" "presentacion.pdf" "presentacion" 1767106525.89721 0
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcss1095.tfm" 1136768653 1536 f0fa079cdc83a6ffeda21e42352cf1ea ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -229,13 +229,13 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1765492755 3633748 93918bbc5a40ae53ba007a3d5dc2a382 ""
   "/usr/local/texlive/2025/texmf.cnf" 1765492513 367 84cac88c877f2da83cd63a35a2db953a ""
   "images/uned_logo_eiduned.png" 1767105357.8349 15284 462ca6ad0b784730a151120f5e1270b9 ""
-  "presentacion.aux" 1767106263.24351 10404 6dd245bcaf5759cc8581123fc7ef767c "pdflatex"
+  "presentacion.aux" 1767106525.65356 10404 6dd245bcaf5759cc8581123fc7ef767c "pdflatex"
   "presentacion.bbl" 1767105375.87537 12757 0d0c2dec52c4d5c4d65f8f402e091736 "biber presentacion"
-  "presentacion.nav" 1767106263.25151 5333 06f9e45b31724e0c23abfbd8fd66ea7f "pdflatex"
-  "presentacion.out" 1767106263.24751 2019 d4fb6119e8daca7223e292d59d47b27c "pdflatex"
-  "presentacion.run.xml" 1767106263.25151 2362 6099b852c7fb764e621404c087fe7d0b "pdflatex"
-  "presentacion.tex" 1767106240.8389 16272 140c405b7de6fb110fb6ae43036df7d9 ""
-  "presentacion.toc" 1767106263.25151 603 2332d5819fc05c4e5944a986cb53fb63 "pdflatex"
+  "presentacion.nav" 1767106525.66156 5333 06f9e45b31724e0c23abfbd8fd66ea7f "pdflatex"
+  "presentacion.out" 1767106525.65756 2019 d4fb6119e8daca7223e292d59d47b27c "pdflatex"
+  "presentacion.run.xml" 1767106525.66156 2362 6099b852c7fb764e621404c087fe7d0b "pdflatex"
+  "presentacion.tex" 1767106517.32913 16286 8e55bf74d1808d4e03e23c7e55ca92f2 ""
+  "presentacion.toc" 1767106525.66156 603 2332d5819fc05c4e5944a986cb53fb63 "pdflatex"
   (generated)
   "presentacion.aux"
   "presentacion.bcf"
