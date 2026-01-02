@@ -5,4 +5,4 @@
 \beamer@sectionintoc {5}{Caracterización de las estructuras multisimplécticas canónicas.}{31}{0}{4}
 \beamer@sectionintoc {6}{Variedades multisimplécticas.}{45}{0}{5}
 \beamer@sectionintoc {7}{Estructuras Hamiltonianas en variedades multisimplécticas.}{49}{0}{6}
-\beamer@sectionintoc {8}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{53}{0}{7}
+\beamer@sectionintoc {8}{Modelos canónicos para variedades multisimplécticas. Coordenadas de Darboux.}{56}{0}{7}
