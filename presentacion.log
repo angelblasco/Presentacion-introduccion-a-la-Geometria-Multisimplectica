@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.16)  5 JAN 2026 12:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.16)  5 JAN 2026 17:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1276,12 +1276,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [5
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 52--52
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 53--53
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 52--52
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 53--53
  [][][][]  
  []
 
@@ -1298,12 +1298,78 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [6
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 56--56
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 57--57
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 56--56
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 57--57
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 61--61
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 61--61
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[8
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 71--71
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 71--71
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[9
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 73--73
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 73--73
  [][][][]  
  []
 
@@ -1321,55 +1387,19 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[7
-
-]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 75--75
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 75--75
- [][][][]  
- []
-
-
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[8
-
-]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[9
-
-]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [10
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 91--91
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 91--91
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1382,16 +1412,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [11
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 88--88
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 88--88
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1404,16 +1424,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [12
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 107--107
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 107--107
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1438,6 +1448,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [14
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 104--104
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 104--104
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1450,6 +1470,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [15
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 123--123
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 123--123
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1462,16 +1492,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [16
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 112--112
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 112--112
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1484,16 +1504,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [17
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 129--129
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 129--129
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1518,6 +1528,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [19
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 128--128
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 128--128
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1530,12 +1550,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [20
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 146--146
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 145--145
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 146--146
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 145--145
  [][][][]  
  []
 
@@ -1576,12 +1596,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [23
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 151--151
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 162--162
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 151--151
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 162--162
  [][][][]  
  []
 
@@ -1598,12 +1618,58 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [24
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 153--153
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 153--153
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[25
+
+]
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[26
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 167--167
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 167--167
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[27
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 169--169
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 169--169
  [][][][]  
  []
 
@@ -1621,61 +1687,15 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[25
-
-]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 173--173
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 173--173
- [][][][]  
- []
-
-
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[26
-
-]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[27
-
-]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [28
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 184--184
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 189--189
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 184--184
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 189--189
  [][][][]  
  []
 
@@ -1692,12 +1712,36 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [29
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 194--194
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 194--194
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[30
+
+]
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[31
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 200--200
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 200--200
  [][][][]  
  []
 
@@ -1711,15 +1755,37 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[30
+[32
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 196--196
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 210--210
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 196--196
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 210--210
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[33
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 212--212
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 212--212
  [][][][]  
  []
 
@@ -1737,61 +1803,15 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[31
-
-]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 211--211
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 211--211
- [][][][]  
- []
-
-
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[32
-
-]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[33
-
-]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [34
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 222--222
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 227--227
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 222--222
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 227--227
  [][][][]  
  []
 
@@ -1820,16 +1840,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [36
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 237--237
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 237--237
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1842,6 +1852,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [37
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 238--238
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 238--238
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1866,35 +1886,14 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [39
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 249--249
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 253--253
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 249--249
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 253--253
  [][][][]  
  []
-
-
-LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-249.
-
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-249.
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-
-LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-249.
-
-
-LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-249.
-
-
-LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-249.
 
 
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
@@ -1909,16 +1908,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [40
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 260--260
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 260--260
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1943,22 +1932,35 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [42
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 274--274
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 265--265
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 274--274
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 265--265
  [][][][]  
  []
 
 
 LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-274.
+265.
+
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+265.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
+265.
 
 
 LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-274.
+265.
+
+
+LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
+265.
 
 
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
@@ -1973,13 +1975,14 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [43
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 276--276
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
 
-LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-274.
 
-
-LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
-274.
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 276--276
+ [][][][]  
+ []
 
 
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
@@ -1994,20 +1997,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [44
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 276--276
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 276--276
- [][][][]  
- []
-
-(./presentacion.toc
-LaTeX Info: Redefining \sptext on input line 1.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-)
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2020,14 +2009,22 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [45
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 282--282
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 290--290
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 282--282
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 290--290
  [][][][]  
  []
+
+
+LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
+290.
+
+
+LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
+290.
 
 
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
@@ -2042,14 +2039,13 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [46
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 294--294
- [][]  \OT1/cmss/m/n/6 ([])  
- []
+
+LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
+290.
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 294--294
- [][][][]  
- []
+LaTeX Warning: Command \textfractionsolidus invalid in math mode on input line 
+290.
 
 
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
@@ -2064,24 +2060,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [47
 
 ]
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 292--292
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[48
-
-]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 296--296
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 296--296
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 292--292
  [][][][]  
  []
 
@@ -2099,15 +2083,37 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[49
+[48
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 304--304
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 298--298
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 304--304
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 298--298
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[49
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 310--310
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 310--310
  [][][][]  
  []
 
@@ -2136,16 +2142,20 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [51
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 314--314
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 312--312
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 314--314
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 312--312
  [][][][]  
  []
 
-
+(./presentacion.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2158,12 +2168,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [52
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 325--325
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 320--320
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 325--325
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 320--320
  [][][][]  
  []
 
@@ -2192,16 +2202,38 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [54
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 332--332
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 330--330
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 332--332
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 330--330
  [][][][]  
  []
 
-LaTeX Font Info:    Trying to load font information for U+euf on input line 332
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[55
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 337--337
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 337--337
+ [][][][]  
+ []
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 337
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
@@ -2215,40 +2247,28 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[55
+[56
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 343--343
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 348--348
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 343--343
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 348--348
  [][][][]  
  []
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 343.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 348.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 343.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 348.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 343.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 348.
 
 
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[56
-
-]
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2261,16 +2281,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [57
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 353--353
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 353--353
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2283,12 +2293,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [58
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 366--366
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 358--358
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 366--366
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 358--358
  [][][][]  
  []
 
@@ -2305,12 +2315,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [59
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 374--374
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 371--371
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 374--374
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 371--371
  [][][][]  
  []
 
@@ -2327,12 +2337,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [60
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 387--387
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 379--379
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 387--387
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 379--379
  [][][][]  
  []
 
@@ -2349,6 +2359,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [61
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 392--392
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 392--392
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2373,12 +2393,24 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [63
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 395--395
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 395--395
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[64
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 400--400
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 400--400
  [][][][]  
  []
 
@@ -2392,15 +2424,15 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[64
+[65
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 397--397
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 402--402
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 397--397
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 402--402
  [][][][]  
  []
 
@@ -2418,37 +2450,15 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[65
-
-]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 405--405
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 405--405
- [][][][]  
- []
-
-
-Overfull \hbox (213.65952pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (71.2577pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [66
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 420--420
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 410--410
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 420--420
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 410--410
  [][][][]  
  []
 
@@ -2465,6 +2475,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [67
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 425--425
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 425--425
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2477,16 +2497,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [68
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 426--426
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 426--426
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2499,6 +2509,16 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [69
 
 ]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 431--431
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 431--431
+ [][][][]  
+ []
+
+
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2511,16 +2531,6 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [70
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 437--437
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
-
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 437--437
- [][][][]  
- []
-
-
 Overfull \hbox (213.65952pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -2533,12 +2543,12 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
 [71
 
 ]
-Overfull \hbox (213.65952pt too wide) in paragraph at lines 443--443
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 442--442
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 
-Overfull \hbox (70.54936pt too wide) in paragraph at lines 443--443
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 442--442
  [][][][]  
  []
 
@@ -2553,6 +2563,28 @@ Overfull \hbox (71.2577pt too wide) has occurred while \output is active
  []
 
 [72
+
+]
+Overfull \hbox (213.65952pt too wide) in paragraph at lines 448--448
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (70.54936pt too wide) in paragraph at lines 448--448
+ [][][][]  
+ []
+
+
+Overfull \hbox (213.65952pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+
+Overfull \hbox (71.2577pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[73
 
 ]
 \tf@nav=\write7
@@ -2573,37 +2605,54 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `presentacion.out' has not changed.
 (rerunfilecheck)             Checksum: D4FB6119E8DACA7223E292D59D47B27C;2019.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                presentacion
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'presentacion.run.xml'.
 \openout1 = `presentacion.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31186 strings out of 476047
- 603438 string characters out of 5792074
- 1955975 words of memory out of 5000000
- 52509 multiletter control sequences out of 15000+600000
+ 31168 strings out of 476047
+ 602533 string characters out of 5792074
+ 1954975 words of memory out of 5000000
+ 52487 multiletter control sequences out of 15000+600000
  567097 words of font info for 69 fonts, out of 8000000 for 9000
  85 hyphenation exceptions out of 8191
  101i,16n,107p,894b,2420s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb>
-Output written on presentacion.pdf (72 pages, 407722 bytes).
+
+pdfTeX warning (dest): name{Navigation74} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Navigation75} has been referenced but does not exis
+t, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb>
+Output written on presentacion.pdf (73 pages, 409863 bytes).
 PDF statistics:
- 2648 PDF objects out of 2984 (max. 8388607)
- 2233 compressed objects within 23 object streams
- 160 named destinations out of 1000 (max. 500000)
- 1534 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2656 PDF objects out of 2984 (max. 8388607)
+ 2250 compressed objects within 23 object streams
+ 164 named destinations out of 1000 (max. 500000)
+ 1462 words of extra memory for PDF output out of 10000 (max. 10000000)
 
